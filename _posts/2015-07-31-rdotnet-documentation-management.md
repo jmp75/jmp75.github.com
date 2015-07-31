@@ -20,8 +20,17 @@ Historically, Jekyll seems to have been oriented towards blog sites (by nature o
 * [Simple doc template](http://bruth.github.io/jekyll-docs-template/)
 
 Blog posts:
-* [](http://joshualande.com/jekyll-github-pages-poole/)
 
+* [Poole](http://joshualande.com/jekyll-github-pages-poole/)
+
+Other documentation sites:
+
+* [Github training kit](https://github.com/github/training-kit)
+
+More for a blog site:
+
+* [jekyll-now](https://github.com/barryclark/jekyll-now)
+* [Jekyll bootstrap](http://jekyllbootstrap.com). 
 
 ### Observations
 
